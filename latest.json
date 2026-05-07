@@ -1,15 +1,15 @@
 {
   "version": "0.1.0",
   "notes": "",
-  "pub_date": "2026-05-07T22:42:42Z",
+  "pub_date": "2026-05-07T22:53:03Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.0/Calliope_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2hsd2FtdXphYmNNR1ZtMWhFSGxyeXdSNE1zNDB5QUUycjRiSVJJOUdZQjQ5Z2Q5TUhoR056eGo3cVpCejdGVWZCMXZhaklDSEdBaDNhZzNTclFuMlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTkzNzAyCWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negpvMzk1aGc4MEZXdFpoTEZkQW1nTlVDak5YcitHWVJ0RmNaV0NaeldmaDJkS1BOZFNXRm5GM0tpVXZva09VcHYzeWZFS09YUzlOODFFWUpKNDdRbmpBZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2hJVXh3ZnUrVmhFbHh5d09ZVE5WNXZsbWlnVWczZXZ3NExnUUptVENONFhoY3BLTzRLZXFuSW9YdVpzNHlJR1Z0QnVvSjJCTTNrNjNUU29DZUpRNXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTk0Mjk5CWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negphMjExdXc0clNlL0ZmcXBhelI0cHEwdk1KeDU1NDZ1bE9RcUt6RGFYVUlFanA3SzFQbVAySklmcG53ZzB3WFBkWU81WG9VSHo2Q0tWZUtUYW9HN0lEZz09Cg=="
     },
     "darwin-x86_64": {
       "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.0/Calliope_x86_64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2w0TmVkMVlKeDMwNzVoMno2MXYxMVM0N2w0akVsRUdybzhLWE8xbDVlanU4c1JiUTd5OHNSbEVtSkxaSnFDd2VTMVBCcEdJU0FTSFNaaU9MOHE2UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTkzNzQ5CWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negpPR2xDdlVKbkpYRDN5MmJWYUJRMFpUUENPbWVsZkNZckpTeHIxTkNHdFIwYUxZMWhETGE4WHVKR0ZKcyszTXVpN3I0SGxRdHdVNSsrbkFIL3FEN1JEUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK3VzZUlqd1R3QnV1UE1Pd3cvK1BRdmc2QkVtU2dETlF4R1BENytaeUdBQS8yWXZlckJCQVo4VUxSdkJxREVNV3FXNXVpaFozcWorTWkxWUVqWktBN2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTk0MzQ3CWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negpCMkxGOWhJS2lYdUpzRSs0djJtU1FCam9IUnpWUmZBQXhsLzg3OVhleEJtcXdLdERodHBBTFNMZlgzM2p4Qk1aZGZBZ3JicDJ2VDVOTkV1VmV4OTdEUT09Cg=="
     }
   }
 }
