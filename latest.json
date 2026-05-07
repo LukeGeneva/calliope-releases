@@ -1,19 +1,15 @@
 {
   "version": "0.1.0",
   "notes": "",
-  "pub_date": "2026-05-07T02:57:11.353Z",
+  "pub_date": "2026-05-07T22:42:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2h4QTlBNXJDUVc0NDBaeCtMbnByOXE2K0VpZ1F5ZjFIdlhjUFl0R3orSm5WaldXUkZ6SkFVTXRKcUd0ajJMcGhGNE5WWnNvYkJJYllMdnh1N1RhWUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTIxOTMyCWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negpiSEVGQzh1Uzk1MzBIeWJZYnlWREZFWTNJNCtSd3dJRkdvcVdxcVVmaGVheGM4R3Z0UlA5MVFLb1A1YXhRdG5zV2pmZk5UWnU3VHk2djNuUnlJUkVEUT09Cg==",
-      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.0/Calliope_aarch64.app.tar.gz"
+      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.0/Calliope_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2hsd2FtdXphYmNNR1ZtMWhFSGxyeXdSNE1zNDB5QUUycjRiSVJJOUdZQjQ5Z2Q5TUhoR056eGo3cVpCejdGVWZCMXZhaklDSEdBaDNhZzNTclFuMlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTkzNzAyCWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negpvMzk1aGc4MEZXdFpoTEZkQW1nTlVDak5YcitHWVJ0RmNaV0NaeldmaDJkS1BOZFNXRm5GM0tpVXZva09VcHYzeWZFS09YUzlOODFFWUpKNDdRbmpBZz09Cg=="
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2dsS05CdmpjU0t6ZncxRXpvWU1NWGVmNG9VZ1FKNmdMYTlIZXFBZFRweU1hTFZZdEN3YjRLZkdYZUwwMExzMW90ZVdiV1hHLzM0Wk0weWFvaGZ0UFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTIxOTI2CWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negp0NmFRbE1QWUwyYlhITkRnMmdydnFOTVpKWFdZV2wyK0F5Q29zSStFT2ZSS3hvTnRqbUZSSENta3lTOFhEREFmSG05d1lPMFNGeFRZYXRHTDE5eDBDdz09Cg==",
-      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.0/Calliope_x64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK3FXOE80Q0dBR0tVZjB1SzdzRGkydzdOaGs4dkw1YXNCR2E4L3c2REcvTm1nR2YrbGNydTJBWm8yWmtZSVJFSmJMS2FNOHY1cHI5MVpBRlBYcy8vMmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTIyNjA0CWZpbGU6Q2FsbGlvcGVfMC4xLjBfeDY0LXNldHVwLmV4ZQpvdFg3S2o2Mml6dFordXVzWTlWdml3MVJhR2syS2tHeW5ic3FpZ0UvY0tXTitJeHNCMjBheGE5bDFoQkpEcmpBL3dwYkh1cmlmelozQkdJTnozN0pDZz09Cg==",
-      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.0/Calliope_0.1.0_x64-setup.exe"
+      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.0/Calliope_x86_64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2w0TmVkMVlKeDMwNzVoMno2MXYxMVM0N2w0akVsRUdybzhLWE8xbDVlanU4c1JiUTd5OHNSbEVtSkxaSnFDd2VTMVBCcEdJU0FTSFNaaU9MOHE2UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTkzNzQ5CWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negpPR2xDdlVKbkpYRDN5MmJWYUJRMFpUUENPbWVsZkNZckpTeHIxTkNHdFIwYUxZMWhETGE4WHVKR0ZKcyszTXVpN3I0SGxRdHdVNSsrbkFIL3FEN1JEUT09Cg=="
     }
   }
 }
