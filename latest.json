@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "",
-  "pub_date": "2026-05-08T02:05:55Z",
+  "pub_date": "2026-05-08T03:13:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.1/Calliope_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2dHVVlsaUl2OFlUL3FZQmNtZDVTSUo4SmlqaWxqZnp0Z1dnQVcwb2pwU2k4TndPTW44NzhkWEU2cGlRNnhPbDJCb1NDV0R0djFZNi9NTUdreVEyQ0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MjA1ODI1CWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negprUWw3eDRtVHRiam4wcWlCVHBqVHFocGhXczZ4c1dRSC9Jamp2eUhoRDQrck05aDN4aDRnS2lSMzVobURUdUZzdmhnWkVwZEoxOWhUMEEzQUpQOWxDZz09Cg=="
+      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.2/Calliope_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK2owTDhZTDNFbUI1OTI5eEEvNGQ3a3J6T0srU25JVVM5S2hobWJGbGszN2czaERJUWZ2QmpoYnJFeDdmVWxRMFNXSHR1bU9tVXdWVEVkTmVRaEhMcEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MjA5OTAyCWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negp3dGpsamM1QmN6VWVhcUx4T25ocm9vUnJzSm1ISkdOV25vWGxFWG5zR2kxV291RS9NNmJ1ekkzTk5zK3ZYcTVGTExvN3RZYmVkam91VVNVSzlNWklDZz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.1/Calliope_x86_64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK3RCTDN1WDZFRjVJTktySlFaZkNvYXNxQ2ZSMko5Qmc2cEpuT1Q3ZFQyTjFRdmhiWDJiclNJNVRONTlOVXovOGg1emZYeUszb0lwK0ltTWpyVUxmemdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MjA1OTA4CWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5nego4MGtvekl4ZlRGQThpTXg4c1VLZERPelNCcHRNL24yTU9manp6SnRjYjByTnJtbEdQMXNLVTQ0LzZDZ1BGdUxtZDNtMFpJRUxZa3RQcDJIQmdma29DUT09Cg=="
+      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.2/Calliope_x86_64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK3ZYRDhMdVUwaDZVY0NaZ2RaTjlvd2JENi9TOWNuMmtwcHMrQkJxU05lWURzTEkxRllBTklEeGpwbGFmYllqUDFMVENzSWxZaWZKT09oazFhWnMzbUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MjA5OTg2CWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5nego1Q2JxZVdEUHg4U0lqbzI4TWp2Ykl3QmgzdkVpWWVFNjVxMGFqb1hTbkFGR0ZPYjNKMmQyY3Rpd0pHUmQzS2o4Qnd6bDcwT2FEWlZCWXhvLzl2NTdDQT09Cg=="
     }
   }
 }
