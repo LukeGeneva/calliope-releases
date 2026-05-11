@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "notes": "",
-  "pub_date": "2026-05-10T16:20:15Z",
+  "pub_date": "2026-05-11T21:52:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.10/Calliope_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK3BrTWg3aStvTUhqWDBBV2dHLzBWRktLdmx6YUthMmlsL1pyckQvZHVTTlgySEsvVWZIY0hMSU5kWE02QVZ3d3BQTUdPbUNQNWNqTDVPc3R6YzcrMWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDMwMDExCWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5negpRL3M1T2RodFoyY1UwbDlsTjlEK1h4Tmw2RXZONUNUUWhaTHZBeXc0cEFNUTJyMDdQYTQwR3BhdnEvVnB3TlY3SnppNk96SmNqSFRZWlNYd0dSL05DUT09Cg=="
+      "url": "https://github.com/LukeGeneva/calliope-releases/releases/download/v0.1.11/Calliope_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZDdjWlRYK3NPK3F1Nk5QcnhtaUl4ZXp5R2VYaXVWOVdMaWN6N25KRklQdnFIWmIvREl1MGNBbk8rUDhNUTJ3Yld4Und6QWNvYkhVOWJHRmhUdCtNRjJQK1lmRnd6cWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTM2MzAxCWZpbGU6Q2FsbGlvcGUuYXBwLnRhci5nego2NzNkM3VjR25ubmw1REd5ZElsMmhmZ3AzdXlkVTFMV1FQeUZML09rcDJUY2FIdmNrUy8waE5uTlYrTzQxNUlOU1M5cmZHRE10L0xUSVFqUTlmMEdEUT09Cg=="
     }
   }
 }
